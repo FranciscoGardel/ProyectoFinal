@@ -1,0 +1,8 @@
+F:\C#\Francisco-Gardel\Francisco-Gardel\bin\Debug\Francisco-Gardel.exe.config
+F:\C#\Francisco-Gardel\Francisco-Gardel\bin\Debug\Francisco-Gardel.exe
+F:\C#\Francisco-Gardel\Francisco-Gardel\bin\Debug\Francisco-Gardel.pdb
+F:\C#\Francisco-Gardel\Francisco-Gardel\obj\Debug\Francisco-Gardel.csproj.AssemblyReference.cache
+F:\C#\Francisco-Gardel\Francisco-Gardel\obj\Debug\Francisco-Gardel.csproj.SuggestedBindingRedirects.cache
+F:\C#\Francisco-Gardel\Francisco-Gardel\obj\Debug\Francisco-Gardel.csproj.CoreCompileInputs.cache
+F:\C#\Francisco-Gardel\Francisco-Gardel\obj\Debug\Francisco-Gardel.exe
+F:\C#\Francisco-Gardel\Francisco-Gardel\obj\Debug\Francisco-Gardel.pdb
